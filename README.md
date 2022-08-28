@@ -43,4 +43,11 @@ Out of 20036 people who gave the survey, 5171 are Students, 2676 are Data Scient
 ### What is the most common yearly compensation and what is the least common yearly compensation of the people who gave the survey?
 The most common yearly compensation is 0-999 dollars with 2128 people and the least common yearly compensation is 250,000-299,999 dollars with 48 people
 
+### Which are the top 3 Cloud Computing platforms that people use on regular basis?
+27.62 % of people choose 'Amazon Web Services (AWS)', 22.50 % of people choose 'Google Cloud Platform (GCP)' and 16.78 % of people choose 'Microsoft Azure' as the top 3 Cloud Computing platforms that they use on regualr basis.
 
+### Which are the top 3 big data products that people use on regular basis?
+17.09 % of people choose 'MySQL', 11.51 % of people choose 'PostgresSQL' and 10.70 % of people choose 'Microsoft SQL Server' as the top 3 big data products that they use on regular basis.
+
+### Where do people publically share or deploy their data analysis or machine learning applications (top 3)?
+33.54 % of people choose 'Github', 18.34 % of people choose 'Kaggle' and 12.18 % of people choose 'Colab' as the top three places where they publically share or deploy their data analysis or machine learning applications.
