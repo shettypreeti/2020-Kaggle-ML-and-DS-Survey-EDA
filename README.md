@@ -27,3 +27,20 @@ Out of 20036 people who gave the survey, 5171 are Students, 2676 are Data Scient
 
 ### Which are the top 3 data visualization libraries or tools that people use on a regular basis?
 34.40 % of people choose 'Matplotlib', 24.59 % of people choose 'Seaborn' and 11.51 % of people choose 'Plotly / Plotly Express' as the top 3 data visualization libraries or tools that they use on a regular basis.
+
+### Which are the top 3 Machine Learning Frameworks that people use on regular basis?
+26.41 % of people choose 'Scikit learn', 17.87 % of people choose 'Tensorflow' and 15.96 % of people choose 'Keras' as the top 3 Machine Learning frameworks that they use on a regular basis.
+
+### Which are the top 3 Machine Learning Algorithms that people use on regular basis?
+23.66 % of people choose 'Linear or Logistic regression', 19.73 % of people choose 'Decision Trees or Random Forests' and 13.13 % of people choose 'Convolutional Neural Network' as the top 3 Machine Learining algorithms that they use on regular basis.
+
+### Which are the top 3 Computer Vision methods that people use on regular basis?
+29.32 % of people choose 'Image classification and other general purpose networks (VGG, Inception, ResNet, ResNeXt, NASNet, EfficientNet, etc)', 17.86 % of people choose 'General purpose image/video tools (PIL, cv2, skimage, etc)' and 17.36 % people choose 'Object detection methods (YOLOv3, RetinaNet, etc)' as the top 3 Computer Vision algorithms that they use on regular basis.
+
+### Which are the top 3 Natural Language Processing (NLP) methods that people use on regular basis?
+31.70 % of people choose 'Word embeddings/vectors (GLoVe, fastText, word2vec)', 22.75 % of people choose 'Encoder-decorder models (seq2seq, vanilla transformers)' and 21.45 % people choose 'Transformer language models (GPT-3, BERT, XLnet, etc)' as the top 3 Natural Language Processing (NLP) algorithms that they use on regular basis.
+
+### What is the most common yearly compensation and what is the least common yearly compensation of the people who gave the survey?
+The most common yearly compensation is 0-999 dollars with 2128 people and the least common yearly compensation is 250,000-299,999 dollars with 48 people
+
+
